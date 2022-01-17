@@ -7,7 +7,7 @@
 打造图床，只要在网页上配置即可，Picgo等软件只是额外的管理工具，非必要。
 1)方式1：改网址（<font color=F44336#>raw</font>）
 只需要新建库，上传图片，复制链接，三步，非常简单
-图片如下
+效果如下
 ![](https://github.com/67here/test_mibot/blob/main/raw.png)
 ![](https://gitee.com/here67/picture_example/raw/master/tuchuang/raw.png)
 
